@@ -16,4 +16,5 @@ LDA的教學很多，這裡就不重複贅述了 \
 
 # Notice
 1. 注意資料格式，`sampledata`的格式是已經轉過的`[[sampledata.json]]`，要放進LDA要確定格式
-2. 注意`num_topics`和`group`的意思
+2. 注意`num_topics`和`group`的意思 
+3. 記得`Python`語言起始是0，`LDA`起始則是1
